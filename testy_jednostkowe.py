@@ -2,10 +2,10 @@
 # def add(x, y):
 #     return x+y
 #
-# def test_add():
-#     assert add(3, 5) == 8
-#     assert add(7, -1) == 6
-#     assert round(add(4.3, 5.6), 2) == 9.9
+def test_add():
+    assert add(3, 5) == 8
+    assert add(7, -1) == 6
+    assert round(add(4.3, 5.6), 2) == 9.9
 #
 #
 # test_add()
