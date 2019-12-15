@@ -12,5 +12,12 @@ def test_product():
     assert funkcje.product(-8, 2.5) == -20
 
 
+def test_is_palindrom():
+    assert funkcje.is_palindrom("kajak")
+    assert funkcje.is_palindrom("")
+    assert funkcje.is_palindrom("Kobyla ma maly bok")
+
+
 test_add()
 test_product()
+test_is_palindrom()
