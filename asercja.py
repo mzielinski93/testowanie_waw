@@ -41,10 +41,10 @@ def div(a, b):
 # div(5, 0)
 
 #KOLEJNE ZADANIE
-def con_str(str1, str2):
-    return str1 + str2
-
-
-assert con_str("Mama", "Tata") == "MamaTata", "FAILED"
-assert con_str("Pies ", "Azor") == "Pies Azor", "FAILED"
-assert con_str("", "") == "", "FAILED"
+# def con_str(str1, str2):
+#     return str1 + str2
+#
+#
+# assert con_str("Mama", "Tata") == "MamaTata", "FAILED"
+# assert con_str("Pies ", "Azor") == "Pies Azor", "FAILED"
+# assert con_str("", "") == "", "FAILED"
