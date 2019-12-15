@@ -18,6 +18,6 @@ def test_is_palindrom():
     assert funkcje.is_palindrom("Kobyla ma maly bok")
 
 
-test_add()
-test_product()
-test_is_palindrom()
+# test_add()
+# test_product()
+# test_is_palindrom()
